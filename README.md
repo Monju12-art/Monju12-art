@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Monju12-art.
-- 👀 I’m interested in learning everything about programming.
-- 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on amazing projects.
-- 📫 How to reach me hmm, just sent an email.
+- 👀 I’m interested in learning everything about Software engineering.
+- 🌱 I’m currently learning SSAD and OPP.
+- 💞️ I’m looking forward to work on amazing projects in software engineering.
+- 📫 You can reach me through an email.
 
 <!---
 Monju12-art/Monju12-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
