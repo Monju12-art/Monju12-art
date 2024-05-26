@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a SDLC project.<br>I'm looking forward to collaborate on software engineering projects<br>I'm looking for help with learning Java and C++<br>I'm currently learning how to build websites<br>Ask me about programming related issues<br>Fun fact, I am obsess with nature.
+I'm currently working on a SDLC project.<br><br>I'm looking for help with learning Java and C++<br>I'm currently learning how to build websites<br>Ask me about programming related issues<br>Fun fact, I am obsessed with nature.
 
 
 # 💻 Tech Stack:
